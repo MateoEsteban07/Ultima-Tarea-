@@ -6,7 +6,7 @@ Este repositorio demuestra un flujo de trabajo con Git para un equipo de 4 desar
 ## Flujo de Trabajo Seguido
 
 1.  **Inicialización:** Se creó un archivo `equipo.txt` con tareas asignadas a cada desarrollador en la rama `main`.
-2.  **Trabajo en Paralelo (Sin Conflicto):**
+2.  **Trabajo en Paralelo :**
     *   `dev1` y `dev2` crearon sus ramas (`rama-dev1`, `rama-dev2`) desde `main`.
     *   Cada uno modificó su línea asignada y subió su rama.
     *   Estas dos ramas se fusionaron en `main` sin ningún problema, ya que los cambios eran en líneas diferentes.
