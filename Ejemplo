@@ -1,2 +1,21 @@
 #Ejemplo
 \\Este repositorio demuestra un flujo de trabajo básico con Git, incluyendo la creación de ramas, la generación intencionada de un conflicto de `merge` y su posterior resoluciónn simulando ser un equipo de dos desarrolladores.
+#para ello se utilizo un codigo cualquiera 
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+	// Declarar variables
+	float resultado;
+	
+	
+	resultado = 4.0 / 2 * 3 / 6 + 6.0 / 2 / 1 / pow(5, 2) / 4 * 2;
+	
+	// Mostrar la respuesta
+	printf("Si se evalua la expresion:\n");
+	printf("4 / 2 * 3 / 6 + 6 / 2 / 1 / 5^2 / 4 * 2\n");
+	printf("El resultado de la misma sera: %.2f\n", resultado);
+	
+	return 0;
+}
