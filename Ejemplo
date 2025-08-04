@@ -10,7 +10,7 @@ int main() {
 	float resultado;
 	
 	
-	resultado = 4.0 / 2 * 3 / 6 + 6.0 / 2 / 1 / pow(5, 2) / 4 * 2;
+	
 	
 	// Mostrar la respuesta
 	printf("Si se evalua la expresion:\n");
