@@ -12,7 +12,6 @@ int main() {
 	
 	resultado = 4.0 / 2 * 3 / 6 + 6.0 / 2 / 1 / pow(5, 2) / 4 * 2;
 	
-	// Mostrar la respuesta
 	printf("Si se evalua la expresion:\n");
 	printf("4 / 2 * 3 / 6 + 6 / 2 / 1 / 5^2 / 4 * 2\n");
 	printf("El resultado de la misma sera: %.2f\n", resultado);
